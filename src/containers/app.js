@@ -8,7 +8,7 @@ import List from '../components/TodoList';
 class App extends React.Component {
     constructor(props){
         super(props);
-        this.stste = {
+        this.state = {
             data: [
                 {
                     id: 1,
